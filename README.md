@@ -1,7 +1,7 @@
 # Analysis-of-Airplane-Crashes-Since-1908
 The project is one of my capstone projects to signify my completion of the Microsoft 30 days of learning bootcamp.
 
-!(IMG_20220719_130415.jpg)
+! [Alt text](relative/path/to/IMG_20220719_130415.jpg?raw=true "Title")
 
 ----
 # Project Objective
