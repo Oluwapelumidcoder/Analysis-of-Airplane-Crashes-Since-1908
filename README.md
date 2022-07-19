@@ -1,4 +1,4 @@
-# Project Name:  Analysis-of-Airplane-Crashes-Since-1908
+# Analysis-of-Airplane-Crashes-Since-1908
 The project is one of my capstone projects to signify my completion of the Microsoft 30 days of learning bootcamp.
 
 !()
