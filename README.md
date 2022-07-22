@@ -16,3 +16,5 @@ The dataset used for this analysis was collected from kaggle. The link to the da
 3) After this, I analyzed the data to draw meaningful insights from it.
 4) Finally I created some comprehendible visualizations.
 <img src= "https://github.com/Oluwapelumidcoder/Analysis-of-Airplane-Crashes-Since-1908/blob/main/query.png" >
+</br>
+<img src="https://github.com/Oluwapelumidcoder/Analysis-of-Airplane-Crashes-Since-1908/blob/main/Air%20Crashes%20Table.png" >
