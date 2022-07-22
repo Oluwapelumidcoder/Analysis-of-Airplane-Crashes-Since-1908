@@ -1,7 +1,7 @@
 # Analysis-of-Airplane-Crashes-Since-1908
 The project is one of my capstone projects to signify my completion of the Microsoft 30 days of learning bootcamp.
-
-! [image header](relative/path/to/IMG_20220719_130415.jpg?raw=true "Title")
+<br>
+<img src= "https://github.com/Oluwapelumidcoder/Analysis-of-Airplane-Crashes-Since-1908/blob/main/query.png"
 
 ----
 # Project Objective
@@ -18,3 +18,4 @@ The dataset used for this analysis was collected from kaggle. The link to the da
 3) After this, I analyzed the data to draw meaningful insights from it.
 4) Finally I created some comprehendible visualizations.
 
+! [Query] (https://github.com/Oluwapelumidcoder/Analysis-of-Airplane-Crashes-Since-1908/blob/main/query.png)
