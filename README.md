@@ -19,3 +19,6 @@ The dataset used for this analysis was collected from kaggle. The link to the da
 <img src= "https://github.com/Oluwapelumidcoder/Analysis-of-Airplane-Crashes-Since-1908/blob/main/query.png" >
 </br>
 <img src="https://github.com/Oluwapelumidcoder/Analysis-of-Airplane-Crashes-Since-1908/blob/main/Air%20Crashes%20Table.png" >
+</br>
+Click on the image icon below to view the dashboard:
+<img src="https://github.com/Oluwapelumidcoder/Analysis-of-Airplane-Crashes-Since-1908/blob/main/Airplane%20Crashes%202.pdf" >
